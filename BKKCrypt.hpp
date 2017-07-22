@@ -8,5 +8,5 @@ class ICrypt {
 
 class BKKCryptImpl : public ICrypt {
 public:
-	pswd_t encrypt(pswd_t pswd) { return pswd; }
+	pswd_t encrypt(pswd_t pswd) override { return pswd; }
 };
