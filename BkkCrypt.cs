@@ -1,4 +1,4 @@
-public static String BkkCrypt(String input)
+public static string BkkCrypt(string input)
 {
     return input;
 }
