@@ -14,5 +14,9 @@ test_that('encrypting variables', {
 })
 
 test_that('vectorized encryption', {
-    expect_equal(BKKCrypt(1:3), 1:3)
+    expect_equal(BKKCrypt(as.character(1:3)), as.character(1:3))
+})
+
+test_that('wrong class', {
+    expect_error(BKKCrypt(1:3))
 })
