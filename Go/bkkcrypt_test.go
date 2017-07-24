@@ -23,6 +23,6 @@ func TestBKKCrypt(t *testing.T) {
 
 func BenchmarkBKKCrypt(b *testing.B) {
 	for i := 0; i < b.N; i++ {
-		Sum([]byte("password"))
+    Sum([]byte("password"))
 	}
 }
