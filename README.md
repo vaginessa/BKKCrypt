@@ -13,3 +13,4 @@ If you contribute and wish to be listed, please add your name to this list below
 * fugafree (Scala)
 * bigblog (Perl)
 * daroczig (R)
+* kisPocok (LOLCODE)
