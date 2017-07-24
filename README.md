@@ -17,3 +17,4 @@ A few of our the contributors:
 * bigblog (Perl)
 * daroczig (R)
 * kisPocok (LOLCODE)
+* gcsizmadia (ArnoldC)
