@@ -1,4 +1,4 @@
-% BKK secure chiper module %
+% BKK secure cipher module %
 
 % Usage, from erl:
 %% c(bkk_crypt).
