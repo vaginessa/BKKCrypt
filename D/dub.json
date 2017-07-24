@@ -1,0 +1,9 @@
+{
+	"name": "bkkcrypt",
+	"authors": [
+		"Tibor Molnar"
+	],
+	"description": "Famous implementation of BKK's password encryption algorithm.",
+	"copyright": "Copyright © 2017, Tibor Molnar",
+	"license": "MIT"
+}
