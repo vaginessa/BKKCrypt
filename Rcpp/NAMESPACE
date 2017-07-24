@@ -3,5 +3,4 @@
 export(BKKCrypt)
 exportPattern("^[[:alpha:]]+")
 importFrom(Rcpp,evalCpp)
-importFrom(checkmate,assert_character)
 useDynLib(BKKCrypt)
