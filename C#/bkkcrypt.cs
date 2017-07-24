@@ -9,9 +9,9 @@ namespace BKK
 
 	public class BKKCrypt : ICrypt
 	{
-    	public string Encrypt(string input)
-    	{
-      		return input;
-    	}
+    		public string Encrypt(string input)
+    		{
+      			return input;
+    		}
   	}
 }
