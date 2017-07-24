@@ -1,1 +1,0 @@
-/home/daroczig/.scripts/R/check.sh
