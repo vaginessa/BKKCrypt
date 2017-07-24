@@ -12,4 +12,4 @@ If you contribute and wish to be listed, please add your name to this list below
 * takacsbi (SQL, Basic)
 * fugafree (Scala)
 * bigblog (Perl)
-
+* daroczig (R)
