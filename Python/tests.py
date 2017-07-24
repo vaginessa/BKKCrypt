@@ -13,7 +13,9 @@ class TestEncodeStrings(unittest.TestCase):
         self.assertEqual(BKKCrypt('1234'), '1234')
         self.assertEqual(BKKCrypt(6969), 6969)
         self.assertEqual(BKKCrypt('6969'), '6969')
-      
+     
+    def test_empty_passwords(self):
+        self.assertEqual(BKKCrypt(''), '')
 
 
 if __name__ == '__main__':
