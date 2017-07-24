@@ -8,4 +8,4 @@ If you contribute and wish to be listed, please add your name to this list below
 * Skarlso (C++)
 * akoskovacs (Ruby, Assembly, Haskell, Erlang, Brainfuck)
 * pehsa (Batch, PowerShell, Python)
-
+* RazorSh4rk (Smalltalk)
