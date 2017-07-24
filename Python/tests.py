@@ -25,6 +25,7 @@ class TestBLNS(unittest.TestCase):
     blns_request = urllib.request.urlretrieve("https://raw.githubusercontent.com/minimaxir/big-list-of-naughty-strings/master/blns.txt")
     with open(blns_request[0]) as blns_file:
         blns = blns_file.readlines()
+        blns = list(map(lambda x: x.strip(), blns))
 
     def test_blns_lines(self):
         for line in self.blns:
