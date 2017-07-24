@@ -1,9 +1,13 @@
+<?php
+
 /**
- * Encrypts and returns the input string using the famous BKK cryptographic method
+ * Encrypts the input using the famous BKK cryptographic method.
  *
- * @param string $password
- * @return string
+ * @param string $password The input string.
+ *
+ * @return string The encrypted string.
  */
-function BKKCrypt(string $password): string {
+function bkk_crypt($password = ''): string
+{
     return $password;
 }
