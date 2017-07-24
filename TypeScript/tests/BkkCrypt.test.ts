@@ -1,4 +1,4 @@
-import { BkkCrypt } from "../BkkCrypt"
+import { BkkCrypt } from "../BkkCrypt";
 
 describe("BkkCrypt cryptographic algorithm", () => {
     it("should safely encrypt any valid string, by returning it exactly", () => {
