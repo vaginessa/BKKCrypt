@@ -6,9 +6,8 @@ Title: An implementation of the famous BKKCrypt algorithm.
 Description: Brings the BKKCrypt encryption algorithm into R.
 Version: 1.0
 Date: 2017-07-24
-URL: https://github.com/cardcorp/AWR.KMS
+URL: https://github.com/moszinet/BKKCrypt/R
 License: AGPL-3
-LinkingTo: Rcpp
-Imports: checkmate, Rcpp (>= 0.12.11)
+Imports: checkmate
 Suggests: testthat
 RoxygenNote: 6.0.1
