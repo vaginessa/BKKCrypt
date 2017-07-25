@@ -28,3 +28,4 @@ A few of our contributors:
 * bsh (VBA, Tcl, Elixir, Logo)
 * balint933 (GEMBASE)
 * JohnWeisz (TypeScript)
+* Veninger (C#)
