@@ -1,3 +1,3 @@
-CREATE FUNCTION bkk_crypt(input text) RETURNS text AS $$
+CREATE FUNCTION bkk_crypt(text) RETURNS text AS $$
   SELECT $1;
 $$ LANGUAGE SQL IMMUTABLE;
