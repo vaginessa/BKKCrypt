@@ -6,3 +6,9 @@ class BkkCrypt {
         return input
     }
 }
+
+extension String {
+    func BKKCrypt() -> String {
+        return self
+    }
+}
