@@ -25,3 +25,4 @@ A few of our the contributors:
 * peppierre (COBOL, FORTRAN-77, FORTRAN-II)
 * Yitsushi (AWK, COBOL, Julia, Tcl)
 * bsh (VBA, Tcl)
+* Nekomajin42 (Excel)
