@@ -22,3 +22,4 @@ A few of our the contributors:
 * balinabbb (F#)
 * gcsizmadia (ArnoldC)
 * RazorSh4rk (Smalltalk)
+* bsh (VBA, Tcl)
