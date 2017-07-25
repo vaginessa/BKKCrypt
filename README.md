@@ -29,4 +29,3 @@ A few of our contributors:
 * balint933 (GEMBASE)
 * JohnWeisz (TypeScript)
 * Veninger (C#)
-
