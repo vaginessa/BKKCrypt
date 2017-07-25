@@ -21,7 +21,7 @@ A few of our contributors:
 * kisPocok (LOLCODE)
 * balinabbb (F#)
 * gcsizmadia (ArnoldC)
-* RazorSh4rk (Smalltalk)
+* RazorSh4rk (Smalltalk, ( ͡° ͜ʖ ͡°)fuck)
 * peppierre (COBOL, FORTRAN-77, FORTRAN-II)
 * Yitsushi (AWK, COBOL, Julia, Tcl)
 * Nekomajin42 (Excel)
