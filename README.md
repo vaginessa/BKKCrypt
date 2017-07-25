@@ -22,4 +22,6 @@ A few of our the contributors:
 * balinabbb (F#)
 * gcsizmadia (ArnoldC)
 * RazorSh4rk (Smalltalk)
+* Yitsushi (AWK, COBOL, Julia, Tcl)
 * bsh (VBA, Tcl)
+
