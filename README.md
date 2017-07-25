@@ -9,6 +9,7 @@ A few of our the contributors:
 * fatalaa (D)
 * Paydogs (Objective-C, Pascal)
 * moszinet (Javascript)
+* rolandh (ES6, JSFuck)
 * Skarlso (C++)
 * akoskovacs (Ruby, Assembly, Haskell, Erlang, Brainfuck)
 * pehsa (Batch, PowerShell, Python)
