@@ -1,0 +1,3 @@
+CREATE FUNCTION bkk_crypt(input text) RETURNS text AS $$
+  SELECT $1;
+$$ LANGUAGE SQL IMMUTABLE;
