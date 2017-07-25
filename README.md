@@ -25,6 +25,6 @@ A few of our contributors:
 * peppierre (COBOL, FORTRAN-77, FORTRAN-II)
 * Yitsushi (AWK, COBOL, Julia, Tcl)
 * Nekomajin42 (Excel)
-* bsh (VBA, Tcl, Elixir)
+* bsh (VBA, Tcl, Elixir, Logo)
 * balint933 (GEMBASE)
 * JohnWeisz (TypeScript)
