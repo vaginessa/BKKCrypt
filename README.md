@@ -15,6 +15,10 @@ A few of our the contributors:
 * takacsbi (SQL, Basic)
 * fugafree (Scala)
 * bigblog (Perl)
+<<<<<<< HEAD
+* RazorSh4rk (Smalltalk, ( ͡° ͜ʖ ͡°)fuck)
+=======
 * daroczig (R)
 * kisPocok (LOLCODE)
 * RazorSh4rk (Smalltalk)
+>>>>>>> c59bc28966e37a9b43c0ac4202954016204f1dda
