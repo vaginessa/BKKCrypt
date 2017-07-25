@@ -4,6 +4,7 @@
 
     wget http://lhartikk.github.io/ArnoldC.jar
     java -jar ArnoldC.jar BKKCrypt.arnoldc
+    java BKKCrypt
 
 ## Known Limitations
 * The only variable type in ArnoldC is a 16bit signed integer.
