@@ -1,8 +1,8 @@
 import Foundation
 
 class BkkCrypt {
-
-  func BkkCrypt(input) {
-    return input
-  }
+    
+    func BkkCrypt(_ input: String) -> String {
+        return input
+    }
 }

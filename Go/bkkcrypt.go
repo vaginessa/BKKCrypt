@@ -12,10 +12,6 @@ func New() hash.Hash {
 	return d
 }
 
-func encode(s string) string {
-	return s
-}
-
 func (d *digest) Size() int { return 0 }
 
 func (d *digest) BlockSize() int { return 0 }
