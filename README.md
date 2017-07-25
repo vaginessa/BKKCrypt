@@ -12,6 +12,7 @@ A few of our the contributors:
 * Skarlso (C++)
 * akoskovacs (Ruby, Assembly, Haskell, Erlang, Brainfuck)
 * pehsa (Batch, PowerShell, Python)
+* PumpkinSeed (Go)
 * takacsbi (SQL, Basic)
 * fugafree (Scala)
 * bigblog (Perl)
