@@ -15,7 +15,7 @@ A few of our the contributors:
 * pehsa (Batch, PowerShell, Python)
 * PumpkinSeed (Go)
 * takacsbi (SQL, Basic)
-* fugafree (Scala)
+* fugafree (Scala, QBasic)
 * bigblog (Perl)
 * daroczig (R)
 * kisPocok (LOLCODE)
