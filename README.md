@@ -28,5 +28,6 @@ A few of our contributors:
 * bsh (VBA, Tcl, Elixir, Logo)
 * balint933 (GEMBASE)
 * JohnWeisz (TypeScript)
+* sinous (AppleScript)
 * kekefigure (VB.NET)
 * Veninger (C#)
