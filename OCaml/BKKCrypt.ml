@@ -8,10 +8,10 @@
      * ocamlc BKKCrypt.ml -o BKKCrypt && ./BKKCrypt
  *)
 let rec bkkcrypt str work_factor =
-    if work_factor < 20 then
-        failwith "Work Factors below 20 are considered weak!"
+    if work_factor < 1000 then
+        failwith "Work Factors below 1000 are considered weak!"
     else
         str;;
 
-assert ((bkkcrypt "hunter2" 20) = ("hunter2"));;
+assert ((bkkcrypt "hunter2" 1000) = ("hunter2"));;
 Printf.printf "Testing done, no errors detected! Code is production-ready\n";;
