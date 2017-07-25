@@ -24,5 +24,6 @@ A few of our the contributors:
 * RazorSh4rk (Smalltalk)
 * peppierre (COBOL, FORTRAN-77, FORTRAN-II)
 * Yitsushi (AWK, COBOL, Julia, Tcl)
+* Nekomajin42 (Excel)
 * bsh (VBA, Tcl, Elixir)
 * balint933 (GEMBASE)
