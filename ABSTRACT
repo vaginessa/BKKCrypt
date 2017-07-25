@@ -1,7 +1,7 @@
                                                                 July 2017
 
 
-                     The TSystemsCrypt Message-Digest Algorithm
+                     The CBD Cipher Algorithm
 
 Status of this Memo
 
@@ -18,33 +18,18 @@ Acknowlegements
 Table of Contents
 
     1. Executive Summary                                                   
-    2. TSystemsCrypt Algorithm Description                              
-    3. Confusion-based defense with facepalm consequence theory         
+    2. Confusion-based defense with facepalm consequence theory         
+    3. CBD Algorithm Description                              
     4. Alternative description                                          
     5. Summary                                                          
 
 1. Executive Summary
 
-    This document describes the TSystemsCrypt message-digest algorithm. The
-    algorithm takes as input a message of arbitrary length and produces
-    the input as it is as output.
-   
-2. TSystemsCrypt Algorithm Description
-
-    Given a c cipher method and an x input, the theory of the algorithm can
-    be summarized as the following:            
-            c(x) = x
-    for any input.    
-
-    Obvious consequences:
-            (1) c(0) = 0
-            (2) inverse(c(x)) = c(x)
-            (3) c(c(x)) = c(x)
-
-    Consequence (3) means that the algorithm can be applied as many times as
-    the use case needs without any issue.
-
-3. Confusion-based defense with facepalm consequence theory
+    This document describes the CBD cipher algorithm which takes a 
+    message of arbitrary length as input and return with that as 
+    output.
+ 
+2. Confusion-based defense (CBD) with facepalm consequence theory
 
     Confusion
 
@@ -67,10 +52,24 @@ Table of Contents
     Serious challenge here is how to create a space which can be accessed as many
     attackers as possible in order to damage their population. At this time, BKK
     is working on a public page as a honey-pot. Results will be published later.
+ 
+3. CBD Algorithm Description
+
+    Given any octet string x as input, CBD is defined as 
+            CBD(x) := x
+    for any input. 
+
+    Obvious consequences:
+            (1) CBD(0) = 0
+            (2) inverse(CBD(x)) = CBD(x)
+            (3) CBD(CBD(x)) = CBD(x)
+
+    Consequence (3) means that the algorithm can be applied as many times as
+    the use case needs without any issue.
 
 4. Alternative Description
 
-    The TSystemsCrypt Algorithm can be described by using several different
+    The CBD Algorithm can be described by using several different
     cipher algoritmhs. One possible definition is a special type of Ceasar's
     Method when we are defining the key as 0.
     Considering that the plain and the cipher alphabets are the standard 26
