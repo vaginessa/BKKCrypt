@@ -18,3 +18,4 @@ A few of our the contributors:
 * daroczig (R)
 * kisPocok (LOLCODE)
 * gcsizmadia (ArnoldC)
+* RazorSh4rk (Smalltalk)
