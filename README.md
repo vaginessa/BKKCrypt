@@ -31,3 +31,4 @@ A few of our contributors:
 * sinous (AppleScript)
 * kekefigure (VB.NET)
 * Veninger (C#)
+* ompi (OpenSCAD)
