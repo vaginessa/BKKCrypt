@@ -22,7 +22,6 @@ A few of our the contributors:
 * balinabbb (F#)
 * gcsizmadia (ArnoldC)
 * RazorSh4rk (Smalltalk)
-* peppierre (FORTRAN-77, FORTRAN-II)
+* peppierre (COBOL, FORTRAN-77, FORTRAN-II)
 * Yitsushi (AWK, COBOL, Julia, Tcl)
 * bsh (VBA, Tcl)
-
