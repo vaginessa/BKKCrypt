@@ -13,7 +13,7 @@ A few of our the contributors:
 * akoskovacs (Ruby, Assembly, Haskell, Erlang, Brainfuck)
 * pehsa (Batch, PowerShell, Python)
 * PumpkinSeed (Go)
-* takacsbi (SQL, Basic)
+* takacsbi (SQL, Basic, Eiffel)
 * fugafree (Scala)
 * bigblog (Perl)
 * daroczig (R)
