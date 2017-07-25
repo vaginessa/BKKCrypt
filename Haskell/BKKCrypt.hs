@@ -1,3 +1,3 @@
--- Lazy typesafe BKK chiper
+-- Lazy typesafe BKK cipher
 bkkCrypt :: String -> String
 bkkCrypt = id
