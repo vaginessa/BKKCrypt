@@ -2,9 +2,9 @@
 
 An implementation of the famous BKKCrypt algorithm. 
 
-If you wish to contribute check CONTRIBUTING.md
+If you wish to contribute check [CONTRIBUTING.md](CONTRIBUTING.md)
 
-A few of our the contributors:
+A few of our contributors:
 
 * fatalaa (D)
 * Paydogs (Objective-C, Pascal)
@@ -27,3 +27,4 @@ A few of our the contributors:
 * Nekomajin42 (Excel)
 * bsh (VBA, Tcl, Elixir)
 * balint933 (GEMBASE)
+* JohnWeisz (TypeScript)
