@@ -29,7 +29,7 @@ A few of our contributors:
 * balint933 (GEMBASE)
 * JohnWeisz (TypeScript)
 * sinous (AppleScript)
-* kekefigure (VB.NET)
+* kekefigure (VB.NET, Dart)
 * Veninger (C#)
 * GT (PHP)
 * DatThomaSs (TrumpScript)
