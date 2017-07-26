@@ -33,3 +33,5 @@ A few of our contributors:
 * Veninger (C#)
 * GT (PHP)
 * Attila24 (TrumpScript)
+* balintka (Cuda C)
+* ompi (OpenSCAD)
