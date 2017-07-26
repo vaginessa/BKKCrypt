@@ -38,3 +38,4 @@ A few of our contributors:
 * balintka (Cuda C)
 * ompi (OpenSCAD)
 * komlosizsolt (ActionScript 3)
+* H2CO3 (Sparkling)
