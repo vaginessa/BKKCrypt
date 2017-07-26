@@ -13,7 +13,7 @@ namespace BKK
         {
             //Arrange
             const string password = "mySuperSecurePassword";
-            BKKCrypt bkkCrypt = (BKKCrypt)new BkkCryptFactory().CreateCrypt();
+            BKKCrypt bkkCrypt = new BKKCrypt();
 
             //Act
             string encryptedPassword = bkkCrypt.Encrypt(password);
