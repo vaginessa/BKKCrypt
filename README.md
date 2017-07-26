@@ -41,4 +41,4 @@ A few of our contributors:
 * bvadnai (Swift)
 * komlosizsolt (ActionScript 3)
 * H2CO3 (Sparkling)
-
+* lpgera (Verilog)
