@@ -34,6 +34,6 @@ A few of our contributors:
 * GT (PHP)
 * DatThomaSs (TrumpScript)
 * csfarkas (Matlab)
-* Attila24 (TrumpScript)
+* Attila24 (TrumpScript, ><> Fish)
 * balintka (Cuda C)
 * ompi (OpenSCAD)
