@@ -18,9 +18,10 @@ namespace BKK
     {
         private readonly CryptStrategyBase _strategy;
 
+        //for lazy lads
         public StrategyContext()
         {
-            _strategy = new BKKCryptStrategy();
+            this._strategy = new BKKCryptStrategy();
         }
         public StrategyContext(CryptStrategyBase strategy)
         {
