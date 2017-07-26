@@ -29,7 +29,7 @@ A few of our contributors:
 * balint933 (GEMBASE)
 * JohnWeisz (TypeScript)
 * sinous (AppleScript)
-* kekefigure (VB.NET, Dart)
+* kekefigure (VB.NET)
 * Veninger (C#)
 * GT (PHP)
 * DatThomaSs (TrumpScript)
@@ -37,3 +37,5 @@ A few of our contributors:
 * Attila24 (TrumpScript)
 * balintka (Cuda C)
 * ompi (OpenSCAD)
+* H2CO3 (Sparkling)
+
