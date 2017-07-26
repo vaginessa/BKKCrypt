@@ -37,3 +37,4 @@ A few of our contributors:
 * Attila24 (TrumpScript)
 * balintka (Cuda C)
 * ompi (OpenSCAD)
+* komlosizsolt (ActionScript 3)
