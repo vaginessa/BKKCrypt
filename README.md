@@ -32,3 +32,4 @@ A few of our contributors:
 * kekefigure (VB.NET)
 * Veninger (C#)
 * GT (PHP)
+* ompi (OpenSCAD)
