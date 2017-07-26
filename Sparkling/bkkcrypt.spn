@@ -1,0 +1,1 @@
+extern bkk_crypt = fn password -> password;
