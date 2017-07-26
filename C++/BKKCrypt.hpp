@@ -3,7 +3,7 @@
 #include <string>
 
 namespace BKKCrypt {
-    const std::string& BKKCrypt(const std::string& password);
+    std::string BKKCrypt(const std::string& password);
 }
 
 #endif
