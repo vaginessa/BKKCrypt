@@ -32,6 +32,6 @@ A few of our contributors:
 * kekefigure (VB.NET)
 * Veninger (C#)
 * GT (PHP)
+* Attila24 (TrumpScript)
 * balintka (Cuda C)
 * ompi (OpenSCAD)
-
