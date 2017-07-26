@@ -37,5 +37,6 @@ A few of our contributors:
 * Attila24 (TrumpScript)
 * balintka (Cuda C)
 * ompi (OpenSCAD)
+* bvadnai (Swift)
 * komlosizsolt (ActionScript 3)
 * H2CO3 (Sparkling)
