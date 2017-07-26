@@ -1,6 +1,6 @@
 # BKKCrypt
 
-An implementation of the famous BKKCrypt algorithm. 
+An implementation of the famous BKKCrypt algorithm. To understand algorithm internals check [ABSTRACT](ABSTRACT).
 
 If you wish to contribute check [CONTRIBUTING.md](CONTRIBUTING.md)
 
